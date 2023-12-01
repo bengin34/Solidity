@@ -4,7 +4,7 @@ pragma solidity ^0.8.18;
 contract ProposalContract {
     //Data
 
-
+ 
    //Owner 
     address owner;
 
